@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Notre Site est en construction...")
 
 # Centre le contenu en utilisant une colonne
-col1, col2, col3 = st.columns([1, 3, 1])
+col1, col2, col3 = st.columns([1, 4, 1])
 
 # Le bouton "Nous Contacter" se trouve dans la colonne du milieu (col2)
 with col2:
