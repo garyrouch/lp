@@ -7,7 +7,7 @@ st.write("")
 st.write("")
 
 # Titre de la page
-st.title("Notre Site est en construction...")
+st.title("Notre site est en construction...")
 
 # Centre le contenu en utilisant une colonne
 col1, col2, col3 = st.columns([1, 1, 1])
